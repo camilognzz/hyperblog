@@ -2,3 +2,5 @@ Esta es una prueba con Git
 
 Realizada por Camilo Andres González Salazar. UUUUHHH
 Aprendiendo Git
+
+Segundo dia aprendiendo Git 
