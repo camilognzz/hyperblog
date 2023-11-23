@@ -1,3 +1,4 @@
 Esta es una prueba con Git
 
-Realizada por Camilo González
+Realizada por Camilo Andres González Salazar. UUUUHHH
+Aprendiendo Git
